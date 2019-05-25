@@ -3,31 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteAPIGitHub", "TesteAPIGitHub\TesteAPIGitHub.csproj", "{35A9303B-2FD4-4A47-B40E-E212846B234D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject", "NUnitTestProject\NUnitTestProject.csproj", "{8F919E10-C7B7-49FB-A4BB-AA404102C5B9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AteliwareGitHub", "Ateliware\AteliwareGitHub.csproj", "{C10EF346-C411-4F07-849D-B71135ED81AD}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{35A9303B-2FD4-4A47-B40E-E212846B234D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35A9303B-2FD4-4A47-B40E-E212846B234D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35A9303B-2FD4-4A47-B40E-E212846B234D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35A9303B-2FD4-4A47-B40E-E212846B234D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8F919E10-C7B7-49FB-A4BB-AA404102C5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F919E10-C7B7-49FB-A4BB-AA404102C5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F919E10-C7B7-49FB-A4BB-AA404102C5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F919E10-C7B7-49FB-A4BB-AA404102C5B9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C10EF346-C411-4F07-849D-B71135ED81AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C10EF346-C411-4F07-849D-B71135ED81AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C10EF346-C411-4F07-849D-B71135ED81AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C10EF346-C411-4F07-849D-B71135ED81AD}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
